@@ -1,6 +1,21 @@
 {
-    "require": {
-        "phpmailer/phpmailer": "^6.9",
-        "guzzlehttp/guzzle": "^7.8"
+  "name": "tsnc/create-prisma-php-app",
+  "version": "1.0.0",
+  "license": "MIT",
+  "description": "Prisma-PHP: A Revolutionary Library Bridging PHP with Prisma ORM",
+  "autoload": {
+    "psr-4": {
+      "Lib\\": "src/Lib"
     }
+  },
+  "authors": [
+    {
+      "name": "Jefferson Abraham Omier",
+      "email": "thesteelninjacode@gmail.com"
+    }
+  ],
+  "require": {
+    "phpmailer/phpmailer": "^6.9",
+    "guzzlehttp/guzzle": "7.8"
+  }
 }
