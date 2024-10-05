@@ -82,25 +82,14 @@ Here are some common tasks that users and admins might perform:
 
 Here are some screenshots of the application:
 
-## Screenshots
-
 ### Home Page
-<img src="/Project/Home%20Page.png" alt="Home Page" width="300" style="margin-right: 20px;"/>
-
-### Admin Panel
-<img src="/Project/Admin%20Pannel.png" alt="Admin Panel" width="300" style="margin-right: 20px;"/>
+![Home Page](/Project/Home%20Page.png)
 
 ### Post Page
-<img src="/Project/Post%20page.png" alt="Post Page" width="300" style="margin-right: 20px;"/>
-
-### Register Page
-<img src="/Project/Register%20Page.png" alt="Register Page" width="300" style="margin-right: 20px;"/>
+![Post Page](/Project/Post%20page.png)
 
 ### Login Page
-<img src="/Project/Login%20Page.png" alt="Login Page" width="300" style="margin-right: 20px;"/>
-
-### OTP Verify Page
-<img src="/Project/otp%20verify.png" alt="OTP Verify Page" width="300" style="margin-right: 20px;"/>
+![Login Page](/Project/Login%20Page.png)
 
 
 ## Contributing
