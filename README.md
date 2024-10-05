@@ -41,7 +41,7 @@ This project is built using a variety of technologies:
    git clone https://github.com/Venkat-Siva-Prasad-Reddy-Eppagunta/TinyBlogger.git
 2. Navigate to the project directory:
    ```bash
-   cd tinybloggers
+   cd tinyblogger
 3. Install dependencies using Composer:
    ```bash
    composer install
@@ -50,7 +50,7 @@ This project is built using a variety of technologies:
 
 ## Running the Project
 1. Start the Apache and MySQL services (if using XAMPP, start them from the control panel).
-2. Open your browser and go to `http://localhost/tinybloggers` to access the application.
+2. Open your browser and go to `http://localhost/tinyblogger` to access the application.
 
 ## Usage
 
@@ -96,7 +96,7 @@ Here are some screenshots of the application:
 
 If you find this project useful, please give it a star! ⭐
 
-[![Star Badge](https://img.shields.io/github/stars/Venkat-Siva-Prasad-Reddy-Eppagunta/tinybloggers?style=social)](https://github.com/Venkat-Siva-Prasad-Reddy-Eppagunta/tinybloggers)
+[![Star Badge](https://img.shields.io/github/stars/Venkat-Siva-Prasad-Reddy-Eppagunta/tinyblogger?style=social)](https://github.com/Venkat-Siva-Prasad-Reddy-Eppagunta/tinyblogger)
 
 Your support helps us improve and maintain this project!
 
