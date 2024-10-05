@@ -92,13 +92,14 @@ Here are some screenshots of the application:
 ![Login Page](/Project/Login%20Page.png)
 
 
-## Contributing
+## Support Us
 
-We welcome contributions! Here’s how you can help:
-1. Fork the repository.
-2. Create a new branch for your feature or fix.
-3. Make your changes.
-4. Submit a pull request.
+If you find this project useful, please give it a star! ⭐
+
+[![Star Badge](https://img.shields.io/github/stars/Venkat-Siva-Prasad-Reddy-Eppagunta/tinybloggers?style=social)](https://github.com/Venkat-Siva-Prasad-Reddy-Eppagunta/tinybloggers)
+
+Your support helps us improve and maintain this project!
+
 
 ## Contact
 
