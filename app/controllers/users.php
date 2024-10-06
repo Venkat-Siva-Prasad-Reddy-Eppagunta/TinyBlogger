@@ -38,7 +38,7 @@ function loginUser($user)
         header('location: ' . BASE_URL . '/welcome.php');
     }
     else {
-        header('location: ' . BASE_URL . '/index.php');
+        header('location: ' . BASE_URL . '/');
     }
     exit();
 }
@@ -176,7 +176,7 @@ function verifyUser($token){
             $_SESSION['verified'] = 1;
             $_SESSION['message'] = 'Your Email is verified';
             $_SESSION['type'] = 'success';
-            header('location: ' . BASE_URL . '/index.php');
+            header('location: ' . BASE_URL . '/');
             exit(); 
         } 
     }

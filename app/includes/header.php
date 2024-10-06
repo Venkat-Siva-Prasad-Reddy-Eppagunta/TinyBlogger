@@ -1,5 +1,6 @@
 <header>
     <a href="<?php echo BASE_URL . '/' ?>" class="logo">
+        <img src="<?php echo BASE_URL . '/assets/images/TinyBlogger.ico'; ?>" alt="Tiny Blogger" class="logo-image" />
         <h2 class="logo-text"><span>Tiny Blogger</span></h2>
     </a>
     <i class="fa fa-bars menu-toggle"></i>

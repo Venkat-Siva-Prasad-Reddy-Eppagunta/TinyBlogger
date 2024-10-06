@@ -47,7 +47,7 @@ if (isset($_GET['password-token'])) {
         </div>     
     </div>
     <?php if ($_SESSION['verified']=== 1):?>
-        <?php header('location: ' . BASE_URL . '/index.php'); ?>
+        <?php header('location: ' . BASE_URL . '/'); ?>
     <?php endif; ?>
     
     <!--JQuery-->

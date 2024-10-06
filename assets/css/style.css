@@ -113,11 +113,23 @@ header .logo{
     float:left;
     height: inherit;
     margin-left: 2em;
+    display: flex;
+    align-items: center;
 }
+
+header .logo-image {
+    height: 50px; 
+    width: auto;
+    margin-right: 10px;
+}
+
 header .logo-text {
-    margin: 14px;
+    font-size: 1.5em;
+    margin: 0;
+    font-variant-caps: small-caps;
     font-family: 'Monoton', serif;
 }
+
 header .logo-text span{
     color: #ffffffec;
 }
