@@ -2,6 +2,8 @@
 
 [![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen)](http://tinyblogger.alchosting.xyz/) ![License](https://img.shields.io/badge/license-MIT-blue)
 
+http://tinyblogger.alchosting.xyz/
+
 ## Table of Contents
 - [Project Overview](#project-overview)
 - [Key Features](#key-features)
