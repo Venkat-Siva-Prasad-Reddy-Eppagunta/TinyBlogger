@@ -19,6 +19,8 @@ if (isset($_GET['t_id'])) {
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="TinyBloggers is a news blog platform that allows admins to create and manage articles, while users can view and search for content. 
+    It includes features like OTP verification, content moderation, and user registration.">
     <!--Font Awesome-->
     <script src="https://kit.fontawesome.com/b4bccc0b37.js" crossorigin="anonymous"></script>
     <!-- Custume Styling -->
